@@ -1,0 +1,12 @@
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\bin\Debug\net7.0\BoltFoodPrj.Core.deps.json
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\bin\Debug\net7.0\BoltFoodPrj.Core.dll
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\bin\Debug\net7.0\BoltFoodPrj.Core.pdb
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.dll
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\refint\BoltFoodPrj.Core.dll
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\BoltFoodPrj.Core.pdb
+C:\Users\Lenovov\source\repos\BoltFoodPrj\BoltFoodPrj.Core\obj\Debug\net7.0\ref\BoltFoodPrj.Core.dll
